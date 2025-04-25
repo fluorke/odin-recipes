@@ -1,0 +1,30 @@
+body {
+    font-size: 20px;
+    height: 100%;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    background-color: beige;
+    height: 100%;
+}
+
+.recipes-list {
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+.steps {
+    list-style: none;
+}
